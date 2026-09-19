@@ -240,4 +240,4 @@ This repository serves as the official landing page for MPlayer. The software is
 **Get the most recent version of MPlayer today!**
 
 ---
-**Last updated:** 2026-09-19 21:59:13 UTC
+**Last updated:** 2026-09-19 23:57:27 UTC
